@@ -1,0 +1,10 @@
+C:\Users\Hunter\Documents\workspace\restApi\bin\Debug\netcoreapp2.0\restApi.deps.json
+C:\Users\Hunter\Documents\workspace\restApi\bin\Debug\netcoreapp2.0\restApi.runtimeconfig.json
+C:\Users\Hunter\Documents\workspace\restApi\bin\Debug\netcoreapp2.0\restApi.runtimeconfig.dev.json
+C:\Users\Hunter\Documents\workspace\restApi\bin\Debug\netcoreapp2.0\restApi.dll
+C:\Users\Hunter\Documents\workspace\restApi\bin\Debug\netcoreapp2.0\restApi.pdb
+C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.AssemblyInfoInputs.cache
+C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.AssemblyInfo.cs
+C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.dll
+C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.pdb
