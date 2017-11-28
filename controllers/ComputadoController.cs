@@ -51,7 +51,7 @@ namespace restApi.Controllers {
                 return BadRequest();
             }
 
-            var computador = _context.Computador.FirstOrDefault(t => t.id == id);
+            var computador = _context.Computadores.FirstOrDefault(t => t.id == id);
             if (computador == null) {
                 return NotFound();
             }
@@ -68,5 +68,17 @@ namespace restApi.Controllers {
             _context.SaveChanges();
             return new NoContentResult();
         }  
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(long id) {
+            var computador = _context.Computadores.FirstOrDefault(t => t.id == id);
+            if (computador == null) {
+                return NotFound();
+            }
+
+            _context.Computadores.Remove(computador);
+            _context.SaveChanges();
+            return new NoContentResult();
+        }
     }
 }
