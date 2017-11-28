@@ -8,3 +8,8 @@ C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.Asse
 C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.AssemblyInfo.cs
 C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.dll
 C:\Users\Hunter\Documents\workspace\restApi\obj\Debug\netcoreapp2.0\restApi.pdb
+c:\Users\rusouza\Documents\GitHub\ApiEstoque\obj\Debug\netcoreapp2.0\restApi.csproj.CoreCompileInputs.cache
+c:\Users\rusouza\Documents\GitHub\ApiEstoque\obj\Debug\netcoreapp2.0\restApi.AssemblyInfoInputs.cache
+c:\Users\rusouza\Documents\GitHub\ApiEstoque\obj\Debug\netcoreapp2.0\restApi.AssemblyInfo.cs
+c:\Users\rusouza\Documents\GitHub\ApiEstoque\obj\Debug\netcoreapp2.0\restApi.dll
+c:\Users\rusouza\Documents\GitHub\ApiEstoque\obj\Debug\netcoreapp2.0\restApi.pdb
