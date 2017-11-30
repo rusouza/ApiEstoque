@@ -61,7 +61,7 @@ namespace restApi.Controllers {
                     throw;
                 }
             }
-            return StatusCode(HttpStatusCode.NoContent);
+            return (IHttpActionResult) NoContent();
         }  
 
         [ResponseType(typeof(Computador))]
